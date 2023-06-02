@@ -1,27 +1,7 @@
-# EdNPortf
+# Este é um projeto que eu fiz como trabalho de conclusão de curso TCC, no curso de Fundamentos AWS na Escola da Nuvem
+Eu utilizei angular para construir uma pagina responsiva, contendo um breve texto sobre computação em nuvem, e alguns cards com fotos dos membros da equipe, com links para o git e linkedin de cada um, bem como o curriculo de cada um.
+e usei a package ng2-pdf-viewer para renderizar o curriculo de cada membro da equipe em uma pagina HTML. 
+tambem fiz com que fosse possivel baixar o PDF do curriculo de cada um.
+#[Veja meu site rodando](https://d2fi97dss4ufom.cloudfront.net)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Visual da pagina](https://i.imgur.com/t0bPzkN.jpg)
