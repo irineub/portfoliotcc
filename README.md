@@ -1,6 +1,6 @@
 # Este é um projeto que eu fiz como trabalho de conclusão de curso TCC, no curso de Fundamentos AWS na <a href="https://escoladanuvem.org/"> Escola da Nuvem </a>
 Fiquei Responsavel pela construção da pagina que seria subida em um Bucket S3 da AWS e exibida através do Cloudfront
-<img src="https://i.imgur.com/IToCMT0.jpg" data-canonical-src="https://i.imgur.com/IToCMT0.jpg" width="580" height="400" /> <img src="https://i.imgur.com/t0bPzkN.jpg" data-canonical-src="https://i.imgur.com/t0bPzkN.jpg" width="580" height="400" />
+<div><img src="https://i.imgur.com/IToCMT0.jpg" data-canonical-src="https://i.imgur.com/IToCMT0.jpg" width="580" height="400" /> <img src="https://i.imgur.com/t0bPzkN.jpg" data-canonical-src="https://i.imgur.com/t0bPzkN.jpg" width="580" height="400" /></div>
 
 
 
