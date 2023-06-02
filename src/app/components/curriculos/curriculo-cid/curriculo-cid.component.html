@@ -1,0 +1,23 @@
+<mat-toolbar class="header mat-elevation-z8">
+  <span>
+    <a routerLink="/">
+      <img src="assets/icon.png" alt="" class="logo">
+      <h1>Portifólio TCC</h1>
+    </a>
+  </span>
+  <span class="title-group">
+    <h2 class="curriculum-heading">Curriculum de Cid Quintela</h2>
+    <span class="download-box">
+      <a href="/assets/curriculos/CurriculoCidQuintela.pdf">Baixar Curriculum</a>
+    </span>
+  </span>
+</mat-toolbar>
+<mat-card-content class="pdf">
+  <pdf-viewer class="arquivo" [src]="pdfSrc"
+    [render-text]="true"
+    [original-size]="false"
+    [zoom]="0.8"
+    [show-borders]="true"
+    style="display: contents;">
+  </pdf-viewer>
+</mat-card-content>

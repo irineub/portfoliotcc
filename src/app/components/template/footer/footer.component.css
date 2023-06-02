@@ -1,0 +1,28 @@
+.footer {
+    bottom: 0;
+    background-color: rgb(4, 0, 83);
+    justify-content: center;
+    color: white;
+    font-size: small;
+    margin-top: auto;
+    
+}
+
+a{
+    color: aqua;
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }

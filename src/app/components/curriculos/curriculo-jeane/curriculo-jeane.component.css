@@ -1,0 +1,110 @@
+.arquivo {
+  block-size: auto;
+}
+
+.pdf {
+  margin-top: 70px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  z-index: 999;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header a h1 {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.header .logo {
+  max-height: 32px;
+}
+
+a {
+  font-family: 'Righteous';
+  color: #00053f;
+}
+
+h1 {
+  color: #00053f;
+  font-size: 24px;
+  text-align: center;
+  font-family: 'Righteous';
+  font-weight: 400;
+}
+
+h3 {
+  color: #087dea;
+  font-size: 18px;
+  font-family: 'Righteous';
+}
+
+h2 {
+  font-family: 'Righteous';
+  color: #00053f;
+}
+
+.title-group {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.curriculum-heading {
+  margin-right: 40px;
+  margin-top: 15px;
+}
+
+.download-box {
+  background-color: #00053f;
+  padding: 5px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+.download-box a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+  white-space: nowrap;
+  
+}
+@media (max-width: 400px) {
+  .download-box a {
+    font-size: 12px; /* Ajuste o tamanho da fonte para uma tela de 390x844 */
+    margin-bottom: 0;
+
+  }
+}
+
+@media (max-width: 600px) {
+  .curriculum-heading {
+    display: none;
+  }
+
+  .download-box {
+    margin-top: 15px;
+    margin-right: 5px;
+    border-color: white;
+    padding: 0%;
+    margin-bottom: 10px;
+  }
+}
