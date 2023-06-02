@@ -9,5 +9,7 @@ Eu utilizei angular para construir uma pagina responsiva, contendo um breve text
 e usei a package ng2-pdf-viewer para renderizar o curriculo de cada membro da equipe em uma pagina HTML. 
 tambem fiz com que fosse possivel baixar o PDF do curriculo de cada um.
 
+E posteriormente a pagina foi subida em um Bucket s3 da AWS e exibida no cloudfront
+
 
 
