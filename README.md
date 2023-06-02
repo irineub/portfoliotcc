@@ -10,4 +10,3 @@ tambem fiz com que fosse possivel baixar o PDF do curriculo de cada um.
 <h1><a href="https://d2fi97dss4ufom.cloudfront.net">Veja meu site rodando</a></h1>
 
 
-![Visual da pagina](https://i.imgur.com/t0bPzkN.jpg)
